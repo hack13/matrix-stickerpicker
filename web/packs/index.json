@@ -1,0 +1,13 @@
+{
+  "packs": [
+    "ntr01.json",
+    "LovelyEngineer.json",
+    "Otbitye.json",
+    "doctor_diy.json",
+    "BadConina.json",
+    "DoctorDIY_v2.json",
+    "Father_of_Linux.json",
+    "webp_16.json"
+  ],
+  "homeserver_url": "https://kotlinist.pro:8448"
+}
